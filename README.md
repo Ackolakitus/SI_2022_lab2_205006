@@ -8,6 +8,7 @@ https://www.dropbox.com/s/un0ogalytqvn4gm/CFGlab2.png?dl=0
 https://www.dropbox.com/s/j6ch3497fgzaby3/cfglab2xmlAnotacii.png?dl=0
 
 3. Цикломатската комплексност на кодот е (девет)
+
 E-N+2=32-25+2=9
 E = 32 ребра
 N = 25 јазли
