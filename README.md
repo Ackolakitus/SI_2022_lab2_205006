@@ -2,6 +2,7 @@
 
 2. Control Flow Graph 
 Слика од CFG-то
+
 ![CFGnotacii](https://user-images.githubusercontent.com/100210063/170839093-8c694ccb-11ac-477f-bb39-5c6d3efadb25.png)
 
 https://www.dropbox.com/s/j6ch3497fgzaby3/cfglab2xmlAnotacii.png?dl=0
