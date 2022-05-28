@@ -2,10 +2,10 @@
 
 2. Control Flow Graph 
 Слика од CFG-то
-https://www.dropbox.com/s/un0ogalytqvn4gm/CFGlab2.png?dl=0
+![CFGnotacii](https://user-images.githubusercontent.com/100210063/170839093-8c694ccb-11ac-477f-bb39-5c6d3efadb25.png)
 
-На оваа слика јазлите се именувани и со букви
 https://www.dropbox.com/s/j6ch3497fgzaby3/cfglab2xmlAnotacii.png?dl=0
+
 
 3. Цикломатската комплексност на кодот е (девет)
 
@@ -18,10 +18,14 @@ P = 8 контролни јазли (условни/предикатни)
 P+1=8+1=9
 
 4. Тест случаи според критериумот Every Statement
-https://www.dropbox.com/scl/fi/de55zw5i731djrsuh9361/EveryStatement.xlsx?dl=0&rlkey=5l8dxp2d3mmtt9tmyf3roqcqw
+
+[EveryStatement.xlsx](https://github.com/Ackolakitus/SI_2022_lab2_205006/files/8791670/EveryStatement.xlsx)
+
 
 5. Тест случаи според критериумот Every Branch
-https://www.dropbox.com/scl/fi/bpu61lmf8c9qeuppamt1i/EveryBranch.xlsx?dl=0&rlkey=begsyi5k92gwn8jtrawm9n8ts
+
+[EveryBranch.xlsx](https://github.com/Ackolakitus/SI_2022_lab2_205006/files/8791671/EveryBranch.xlsx)
+
 
 7. Објаснување на напишаните unit tests
 Ги проверувам 3-те тест случаи:
