@@ -1,5 +1,5 @@
 # SI_2022_lab2_205006
-
+# Aleksandar Ristovski 205006
 2. Control Flow Graph 
 Слика од CFG-то
 
